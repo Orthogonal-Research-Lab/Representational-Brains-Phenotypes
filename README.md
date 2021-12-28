@@ -4,10 +4,10 @@ Saturday Monring NeuroSim  [YouTube](https://www.youtube.com/watch?v=7UcgCKjYcAA
 
 Subareas:
 
-1) Cultural Data Science
+1) Cultural Simulations and Artificial Life
 
 2) Growth and Form
 
 3) PHaSiC/IA (Physical Intelligence/Intelligence Augmentation)
 
-4) Cybernetics and Complexity (developmental Braitenberg Vehicles, Meta-brain Models)
+4) Cybernetics and Complexity (Developmental Braitenberg Vehicles, Meta-brain Models)
